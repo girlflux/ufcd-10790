@@ -11,9 +11,9 @@ class Settings:
         self.bullet_speed = 6.0
         self.bullet_width = 6
         self.bullet_height = 17
-        self.bullet_color = (255, 177, 77)
+        self.bullet_color = (255, 127, 77)
 
         """Definições das balas dos inimigos"""
         self.enemy_bullet_speed = 5.0
         self.enemy_bullet_radius = 6
-        self.enemy_bullet_color = (255, 0, 0)
+        self.enemy_bullet_color = (255, 0, 22)
