@@ -1,0 +1,1392 @@
+[
+    {
+        "DICO": "0101",
+        "CONCELHO": "Águeda",
+        "DISTRITO": "Aveiro"
+    },
+    {
+        "DICO": "0102",
+        "CONCELHO": "Albergaria-a-Velha",
+        "DISTRITO": "Aveiro"
+    },
+    {
+        "DICO": "0103",
+        "CONCELHO": "Anadia",
+        "DISTRITO": "Aveiro"
+    },
+    {
+        "DICO": "0104",
+        "CONCELHO": "Arouca",
+        "DISTRITO": "Aveiro"
+    },
+    {
+        "DICO": "0105",
+        "CONCELHO": "Aveiro",
+        "DISTRITO": "Aveiro"
+    },
+    {
+        "DICO": "0106",
+        "CONCELHO": "Castelo de Paiva",
+        "DISTRITO": "Aveiro"
+    },
+    {
+        "DICO": "0107",
+        "CONCELHO": "Espinho",
+        "DISTRITO": "Aveiro"
+    },
+    {
+        "DICO": "0108",
+        "CONCELHO": "Estarreja",
+        "DISTRITO": "Aveiro"
+    },
+    {
+        "DICO": "0109",
+        "CONCELHO": "Santa Maria da Feira",
+        "DISTRITO": "Aveiro"
+    },
+    {
+        "DICO": "0110",
+        "CONCELHO": "Ílhavo",
+        "DISTRITO": "Aveiro"
+    },
+    {
+        "DICO": "0111",
+        "CONCELHO": "Mealhada",
+        "DISTRITO": "Aveiro"
+    },
+    {
+        "DICO": "0112",
+        "CONCELHO": "Murtosa",
+        "DISTRITO": "Aveiro"
+    },
+    {
+        "DICO": "0113",
+        "CONCELHO": "Oliveira de Azeméis",
+        "DISTRITO": "Aveiro"
+    },
+    {
+        "DICO": "0114",
+        "CONCELHO": "Oliveira do Bairro",
+        "DISTRITO": "Aveiro"
+    },
+    {
+        "DICO": "0115",
+        "CONCELHO": "Ovar",
+        "DISTRITO": "Aveiro"
+    },
+    {
+        "DICO": "0116",
+        "CONCELHO": "São João da Madeira",
+        "DISTRITO": "Aveiro"
+    },
+    {
+        "DICO": "0117",
+        "CONCELHO": "Sever do Vouga",
+        "DISTRITO": "Aveiro"
+    },
+    {
+        "DICO": "0118",
+        "CONCELHO": "Vagos",
+        "DISTRITO": "Aveiro"
+    },
+    {
+        "DICO": "0119",
+        "CONCELHO": "Vale de Cambra",
+        "DISTRITO": "Aveiro"
+    },
+    {
+        "DICO": "0201",
+        "CONCELHO": "Aljustrel",
+        "DISTRITO": "Beja"
+    },
+    {
+        "DICO": "0202",
+        "CONCELHO": "Almodôvar",
+        "DISTRITO": "Beja"
+    },
+    {
+        "DICO": "0203",
+        "CONCELHO": "Alvito",
+        "DISTRITO": "Beja"
+    },
+    {
+        "DICO": "0204",
+        "CONCELHO": "Barrancos",
+        "DISTRITO": "Beja"
+    },
+    {
+        "DICO": "0205",
+        "CONCELHO": "Beja",
+        "DISTRITO": "Beja"
+    },
+    {
+        "DICO": "0206",
+        "CONCELHO": "Castro Verde",
+        "DISTRITO": "Beja"
+    },
+    {
+        "DICO": "0207",
+        "CONCELHO": "Cuba",
+        "DISTRITO": "Beja"
+    },
+    {
+        "DICO": "0208",
+        "CONCELHO": "Ferreira do Alentejo",
+        "DISTRITO": "Beja"
+    },
+    {
+        "DICO": "0209",
+        "CONCELHO": "Mértola",
+        "DISTRITO": "Beja"
+    },
+    {
+        "DICO": "0210",
+        "CONCELHO": "Moura",
+        "DISTRITO": "Beja"
+    },
+    {
+        "DICO": "0211",
+        "CONCELHO": "Odemira",
+        "DISTRITO": "Beja"
+    },
+    {
+        "DICO": "0212",
+        "CONCELHO": "Ourique",
+        "DISTRITO": "Beja"
+    },
+    {
+        "DICO": "0213",
+        "CONCELHO": "Serpa",
+        "DISTRITO": "Beja"
+    },
+    {
+        "DICO": "0214",
+        "CONCELHO": "Vidigueira",
+        "DISTRITO": "Beja"
+    },
+    {
+        "DICO": "0301",
+        "CONCELHO": "Amares",
+        "DISTRITO": "Braga"
+    },
+    {
+        "DICO": "0302",
+        "CONCELHO": "Barcelos",
+        "DISTRITO": "Braga"
+    },
+    {
+        "DICO": "0303",
+        "CONCELHO": "Braga",
+        "DISTRITO": "Braga"
+    },
+    {
+        "DICO": "0304",
+        "CONCELHO": "Cabeceiras de Basto",
+        "DISTRITO": "Braga"
+    },
+    {
+        "DICO": "0305",
+        "CONCELHO": "Celorico de Basto",
+        "DISTRITO": "Braga"
+    },
+    {
+        "DICO": "0306",
+        "CONCELHO": "Esposende",
+        "DISTRITO": "Braga"
+    },
+    {
+        "DICO": "0307",
+        "CONCELHO": "Fafe",
+        "DISTRITO": "Braga"
+    },
+    {
+        "DICO": "0308",
+        "CONCELHO": "Guimarães",
+        "DISTRITO": "Braga"
+    },
+    {
+        "DICO": "0309",
+        "CONCELHO": "Póvoa de Lanhoso",
+        "DISTRITO": "Braga"
+    },
+    {
+        "DICO": "0310",
+        "CONCELHO": "Terras de Bouro",
+        "DISTRITO": "Braga"
+    },
+    {
+        "DICO": "0311",
+        "CONCELHO": "Vieira do Minho",
+        "DISTRITO": "Braga"
+    },
+    {
+        "DICO": "0312",
+        "CONCELHO": "Vila Nova de Famalicão",
+        "DISTRITO": "Braga"
+    },
+    {
+        "DICO": "0313",
+        "CONCELHO": "Vila Verde",
+        "DISTRITO": "Braga"
+    },
+    {
+        "DICO": "0314",
+        "CONCELHO": "Vizela",
+        "DISTRITO": "Braga"
+    },
+    {
+        "DICO": "0401",
+        "CONCELHO": "Alfândega da Fé",
+        "DISTRITO": "Bragança"
+    },
+    {
+        "DICO": "0402",
+        "CONCELHO": "Bragança",
+        "DISTRITO": "Bragança"
+    },
+    {
+        "DICO": "0403",
+        "CONCELHO": "Carrazeda de Ansiães",
+        "DISTRITO": "Bragança"
+    },
+    {
+        "DICO": "0404",
+        "CONCELHO": "Freixo de Espada à Cinta",
+        "DISTRITO": "Bragança"
+    },
+    {
+        "DICO": "0405",
+        "CONCELHO": "Macedo de Cavaleiros",
+        "DISTRITO": "Bragança"
+    },
+    {
+        "DICO": "0406",
+        "CONCELHO": "Miranda do Douro",
+        "DISTRITO": "Bragança"
+    },
+    {
+        "DICO": "0407",
+        "CONCELHO": "Mirandela",
+        "DISTRITO": "Bragança"
+    },
+    {
+        "DICO": "0408",
+        "CONCELHO": "Mogadouro",
+        "DISTRITO": "Bragança"
+    },
+    {
+        "DICO": "0409",
+        "CONCELHO": "Torre de Moncorvo",
+        "DISTRITO": "Bragança"
+    },
+    {
+        "DICO": "0410",
+        "CONCELHO": "Vila Flor",
+        "DISTRITO": "Bragança"
+    },
+    {
+        "DICO": "0411",
+        "CONCELHO": "Vimioso",
+        "DISTRITO": "Bragança"
+    },
+    {
+        "DICO": "0412",
+        "CONCELHO": "Vinhais",
+        "DISTRITO": "Bragança"
+    },
+    {
+        "DICO": "0501",
+        "CONCELHO": "Belmonte",
+        "DISTRITO": "Castelo Branco"
+    },
+    {
+        "DICO": "0502",
+        "CONCELHO": "Castelo Branco",
+        "DISTRITO": "Castelo Branco"
+    },
+    {
+        "DICO": "0503",
+        "CONCELHO": "Covilhã",
+        "DISTRITO": "Castelo Branco"
+    },
+    {
+        "DICO": "0504",
+        "CONCELHO": "Fundão",
+        "DISTRITO": "Castelo Branco"
+    },
+    {
+        "DICO": "0505",
+        "CONCELHO": "Idanha-a-Nova",
+        "DISTRITO": "Castelo Branco"
+    },
+    {
+        "DICO": "0506",
+        "CONCELHO": "Oleiros",
+        "DISTRITO": "Castelo Branco"
+    },
+    {
+        "DICO": "0507",
+        "CONCELHO": "Penamacor",
+        "DISTRITO": "Castelo Branco"
+    },
+    {
+        "DICO": "0508",
+        "CONCELHO": "Proença-a-Nova",
+        "DISTRITO": "Castelo Branco"
+    },
+    {
+        "DICO": "0509",
+        "CONCELHO": "Sertã",
+        "DISTRITO": "Castelo Branco"
+    },
+    {
+        "DICO": "0510",
+        "CONCELHO": "Vila de Rei",
+        "DISTRITO": "Castelo Branco"
+    },
+    {
+        "DICO": "0511",
+        "CONCELHO": "Vila Velha de Ródão",
+        "DISTRITO": "Castelo Branco"
+    },
+    {
+        "DICO": "0601",
+        "CONCELHO": "Arganil",
+        "DISTRITO": "Coimbra"
+    },
+    {
+        "DICO": "0602",
+        "CONCELHO": "Cantanhede",
+        "DISTRITO": "Coimbra"
+    },
+    {
+        "DICO": "0603",
+        "CONCELHO": "Coimbra",
+        "DISTRITO": "Coimbra"
+    },
+    {
+        "DICO": "0604",
+        "CONCELHO": "Condeixa-a-Nova",
+        "DISTRITO": "Coimbra"
+    },
+    {
+        "DICO": "0605",
+        "CONCELHO": "Figueira da Foz",
+        "DISTRITO": "Coimbra"
+    },
+    {
+        "DICO": "0606",
+        "CONCELHO": "Góis",
+        "DISTRITO": "Coimbra"
+    },
+    {
+        "DICO": "0607",
+        "CONCELHO": "Lousã",
+        "DISTRITO": "Coimbra"
+    },
+    {
+        "DICO": "0608",
+        "CONCELHO": "Mira",
+        "DISTRITO": "Coimbra"
+    },
+    {
+        "DICO": "0609",
+        "CONCELHO": "Miranda do Corvo",
+        "DISTRITO": "Coimbra"
+    },
+    {
+        "DICO": "0610",
+        "CONCELHO": "Montemor-o-Velho",
+        "DISTRITO": "Coimbra"
+    },
+    {
+        "DICO": "0611",
+        "CONCELHO": "Oliveira do Hospital",
+        "DISTRITO": "Coimbra"
+    },
+    {
+        "DICO": "0612",
+        "CONCELHO": "Pampilhosa da Serra",
+        "DISTRITO": "Coimbra"
+    },
+    {
+        "DICO": "0613",
+        "CONCELHO": "Penacova",
+        "DISTRITO": "Coimbra"
+    },
+    {
+        "DICO": "0614",
+        "CONCELHO": "Penela",
+        "DISTRITO": "Coimbra"
+    },
+    {
+        "DICO": "0615",
+        "CONCELHO": "Soure",
+        "DISTRITO": "Coimbra"
+    },
+    {
+        "DICO": "0616",
+        "CONCELHO": "Tábua",
+        "DISTRITO": "Coimbra"
+    },
+    {
+        "DICO": "0617",
+        "CONCELHO": "Vila Nova de Poiares",
+        "DISTRITO": "Coimbra"
+    },
+    {
+        "DICO": "0701",
+        "CONCELHO": "Alandroal",
+        "DISTRITO": "Évora"
+    },
+    {
+        "DICO": "0702",
+        "CONCELHO": "Arraiolos",
+        "DISTRITO": "Évora"
+    },
+    {
+        "DICO": "0703",
+        "CONCELHO": "Borba",
+        "DISTRITO": "Évora"
+    },
+    {
+        "DICO": "0704",
+        "CONCELHO": "Estremoz",
+        "DISTRITO": "Évora"
+    },
+    {
+        "DICO": "0705",
+        "CONCELHO": "Évora",
+        "DISTRITO": "Évora"
+    },
+    {
+        "DICO": "0706",
+        "CONCELHO": "Montemor-o-Novo",
+        "DISTRITO": "Évora"
+    },
+    {
+        "DICO": "0707",
+        "CONCELHO": "Mora",
+        "DISTRITO": "Évora"
+    },
+    {
+        "DICO": "0708",
+        "CONCELHO": "Mourão",
+        "DISTRITO": "Évora"
+    },
+    {
+        "DICO": "0709",
+        "CONCELHO": "Portel",
+        "DISTRITO": "Évora"
+    },
+    {
+        "DICO": "0710",
+        "CONCELHO": "Redondo",
+        "DISTRITO": "Évora"
+    },
+    {
+        "DICO": "0711",
+        "CONCELHO": "Reguengos de Monsaraz",
+        "DISTRITO": "Évora"
+    },
+    {
+        "DICO": "0712",
+        "CONCELHO": "Vendas Novas",
+        "DISTRITO": "Évora"
+    },
+    {
+        "DICO": "0713",
+        "CONCELHO": "Viana do Alentejo",
+        "DISTRITO": "Évora"
+    },
+    {
+        "DICO": "0714",
+        "CONCELHO": "Vila Viçosa",
+        "DISTRITO": "Évora"
+    },
+    {
+        "DICO": "0801",
+        "CONCELHO": "Albufeira",
+        "DISTRITO": "Faro"
+    },
+    {
+        "DICO": "0802",
+        "CONCELHO": "Alcoutim",
+        "DISTRITO": "Faro"
+    },
+    {
+        "DICO": "0803",
+        "CONCELHO": "Aljezur",
+        "DISTRITO": "Faro"
+    },
+    {
+        "DICO": "0804",
+        "CONCELHO": "Castro Marim",
+        "DISTRITO": "Faro"
+    },
+    {
+        "DICO": "0805",
+        "CONCELHO": "Faro",
+        "DISTRITO": "Faro"
+    },
+    {
+        "DICO": "0806",
+        "CONCELHO": "Lagoa",
+        "DISTRITO": "Faro"
+    },
+    {
+        "DICO": "0807",
+        "CONCELHO": "Lagos",
+        "DISTRITO": "Faro"
+    },
+    {
+        "DICO": "0808",
+        "CONCELHO": "Loulé",
+        "DISTRITO": "Faro"
+    },
+    {
+        "DICO": "0809",
+        "CONCELHO": "Monchique",
+        "DISTRITO": "Faro"
+    },
+    {
+        "DICO": "0810",
+        "CONCELHO": "Olhão",
+        "DISTRITO": "Faro"
+    },
+    {
+        "DICO": "0811",
+        "CONCELHO": "Portimão",
+        "DISTRITO": "Faro"
+    },
+    {
+        "DICO": "0812",
+        "CONCELHO": "São Brás de Alportel",
+        "DISTRITO": "Faro"
+    },
+    {
+        "DICO": "0813",
+        "CONCELHO": "Silves",
+        "DISTRITO": "Faro"
+    },
+    {
+        "DICO": "0814",
+        "CONCELHO": "Tavira",
+        "DISTRITO": "Faro"
+    },
+    {
+        "DICO": "0815",
+        "CONCELHO": "Vila do Bispo",
+        "DISTRITO": "Faro"
+    },
+    {
+        "DICO": "0816",
+        "CONCELHO": "Vila Real de Santo António",
+        "DISTRITO": "Faro"
+    },
+    {
+        "DICO": "0901",
+        "CONCELHO": "Aguiar da Beira",
+        "DISTRITO": "Guarda"
+    },
+    {
+        "DICO": "0902",
+        "CONCELHO": "Almeida",
+        "DISTRITO": "Guarda"
+    },
+    {
+        "DICO": "0903",
+        "CONCELHO": "Celorico da Beira",
+        "DISTRITO": "Guarda"
+    },
+    {
+        "DICO": "0904",
+        "CONCELHO": "Figueira de Castelo Rodrigo",
+        "DISTRITO": "Guarda"
+    },
+    {
+        "DICO": "0905",
+        "CONCELHO": "Fornos de Algodres",
+        "DISTRITO": "Guarda"
+    },
+    {
+        "DICO": "0906",
+        "CONCELHO": "Gouveia",
+        "DISTRITO": "Guarda"
+    },
+    {
+        "DICO": "0907",
+        "CONCELHO": "Guarda",
+        "DISTRITO": "Guarda"
+    },
+    {
+        "DICO": "0908",
+        "CONCELHO": "Manteigas",
+        "DISTRITO": "Guarda"
+    },
+    {
+        "DICO": "0909",
+        "CONCELHO": "Mêda",
+        "DISTRITO": "Guarda"
+    },
+    {
+        "DICO": "0910",
+        "CONCELHO": "Pinhel",
+        "DISTRITO": "Guarda"
+    },
+    {
+        "DICO": "0911",
+        "CONCELHO": "Sabugal",
+        "DISTRITO": "Guarda"
+    },
+    {
+        "DICO": "0912",
+        "CONCELHO": "Seia",
+        "DISTRITO": "Guarda"
+    },
+    {
+        "DICO": "0913",
+        "CONCELHO": "Trancoso",
+        "DISTRITO": "Guarda"
+    },
+    {
+        "DICO": "0914",
+        "CONCELHO": "Vila Nova de Foz Côa",
+        "DISTRITO": "Guarda"
+    },
+    {
+        "DICO": "1001",
+        "CONCELHO": "Alcobaça",
+        "DISTRITO": "Leiria"
+    },
+    {
+        "DICO": "1002",
+        "CONCELHO": "Alvaiázere",
+        "DISTRITO": "Leiria"
+    },
+    {
+        "DICO": "1003",
+        "CONCELHO": "Ansião",
+        "DISTRITO": "Leiria"
+    },
+    {
+        "DICO": "1004",
+        "CONCELHO": "Batalha",
+        "DISTRITO": "Leiria"
+    },
+    {
+        "DICO": "1005",
+        "CONCELHO": "Bombarral",
+        "DISTRITO": "Leiria"
+    },
+    {
+        "DICO": "1006",
+        "CONCELHO": "Caldas da Rainha",
+        "DISTRITO": "Leiria"
+    },
+    {
+        "DICO": "1007",
+        "CONCELHO": "Castanheira de Pêra",
+        "DISTRITO": "Leiria"
+    },
+    {
+        "DICO": "1008",
+        "CONCELHO": "Figueiró dos Vinhos",
+        "DISTRITO": "Leiria"
+    },
+    {
+        "DICO": "1009",
+        "CONCELHO": "Leiria",
+        "DISTRITO": "Leiria"
+    },
+    {
+        "DICO": "1010",
+        "CONCELHO": "Marinha Grande",
+        "DISTRITO": "Leiria"
+    },
+    {
+        "DICO": "1011",
+        "CONCELHO": "Nazaré",
+        "DISTRITO": "Leiria"
+    },
+    {
+        "DICO": "1012",
+        "CONCELHO": "Óbidos",
+        "DISTRITO": "Leiria"
+    },
+    {
+        "DICO": "1013",
+        "CONCELHO": "Pedrógão Grande",
+        "DISTRITO": "Leiria"
+    },
+    {
+        "DICO": "1014",
+        "CONCELHO": "Peniche",
+        "DISTRITO": "Leiria"
+    },
+    {
+        "DICO": "1015",
+        "CONCELHO": "Pombal",
+        "DISTRITO": "Leiria"
+    },
+    {
+        "DICO": "1016",
+        "CONCELHO": "Porto de Mós",
+        "DISTRITO": "Leiria"
+    },
+    {
+        "DICO": "1101",
+        "CONCELHO": "Alenquer",
+        "DISTRITO": "Lisboa"
+    },
+    {
+        "DICO": "1102",
+        "CONCELHO": "Arruda dos Vinhos",
+        "DISTRITO": "Lisboa"
+    },
+    {
+        "DICO": "1103",
+        "CONCELHO": "Azambuja",
+        "DISTRITO": "Lisboa"
+    },
+    {
+        "DICO": "1104",
+        "CONCELHO": "Cadaval",
+        "DISTRITO": "Lisboa"
+    },
+    {
+        "DICO": "1105",
+        "CONCELHO": "Cascais",
+        "DISTRITO": "Lisboa"
+    },
+    {
+        "DICO": "1106",
+        "CONCELHO": "Lisboa",
+        "DISTRITO": "Lisboa"
+    },
+    {
+        "DICO": "1107",
+        "CONCELHO": "Loures",
+        "DISTRITO": "Lisboa"
+    },
+    {
+        "DICO": "1108",
+        "CONCELHO": "Lourinhã",
+        "DISTRITO": "Lisboa"
+    },
+    {
+        "DICO": "1109",
+        "CONCELHO": "Mafra",
+        "DISTRITO": "Lisboa"
+    },
+    {
+        "DICO": "1110",
+        "CONCELHO": "Oeiras",
+        "DISTRITO": "Lisboa"
+    },
+    {
+        "DICO": "1111",
+        "CONCELHO": "Sintra",
+        "DISTRITO": "Lisboa"
+    },
+    {
+        "DICO": "1112",
+        "CONCELHO": "Sobral de Monte Agraço",
+        "DISTRITO": "Lisboa"
+    },
+    {
+        "DICO": "1113",
+        "CONCELHO": "Torres Vedras",
+        "DISTRITO": "Lisboa"
+    },
+    {
+        "DICO": "1114",
+        "CONCELHO": "Vila Franca de Xira",
+        "DISTRITO": "Lisboa"
+    },
+    {
+        "DICO": "1115",
+        "CONCELHO": "Amadora",
+        "DISTRITO": "Lisboa"
+    },
+    {
+        "DICO": "1116",
+        "CONCELHO": "Odivelas",
+        "DISTRITO": "Lisboa"
+    },
+    {
+        "DICO": "1201",
+        "CONCELHO": "Alter do Chão",
+        "DISTRITO": "Portalegre"
+    },
+    {
+        "DICO": "1202",
+        "CONCELHO": "Arronches",
+        "DISTRITO": "Portalegre"
+    },
+    {
+        "DICO": "1203",
+        "CONCELHO": "Avis",
+        "DISTRITO": "Portalegre"
+    },
+    {
+        "DICO": "1204",
+        "CONCELHO": "Campo Maior",
+        "DISTRITO": "Portalegre"
+    },
+    {
+        "DICO": "1205",
+        "CONCELHO": "Castelo de Vide",
+        "DISTRITO": "Portalegre"
+    },
+    {
+        "DICO": "1206",
+        "CONCELHO": "Crato",
+        "DISTRITO": "Portalegre"
+    },
+    {
+        "DICO": "1207",
+        "CONCELHO": "Elvas",
+        "DISTRITO": "Portalegre"
+    },
+    {
+        "DICO": "1208",
+        "CONCELHO": "Fronteira",
+        "DISTRITO": "Portalegre"
+    },
+    {
+        "DICO": "1209",
+        "CONCELHO": "Gavião",
+        "DISTRITO": "Portalegre"
+    },
+    {
+        "DICO": "1210",
+        "CONCELHO": "Marvão",
+        "DISTRITO": "Portalegre"
+    },
+    {
+        "DICO": "1211",
+        "CONCELHO": "Monforte",
+        "DISTRITO": "Portalegre"
+    },
+    {
+        "DICO": "1212",
+        "CONCELHO": "Nisa",
+        "DISTRITO": "Portalegre"
+    },
+    {
+        "DICO": "1213",
+        "CONCELHO": "Ponte de Sor",
+        "DISTRITO": "Portalegre"
+    },
+    {
+        "DICO": "1214",
+        "CONCELHO": "Portalegre",
+        "DISTRITO": "Portalegre"
+    },
+    {
+        "DICO": "1215",
+        "CONCELHO": "Sousel",
+        "DISTRITO": "Portalegre"
+    },
+    {
+        "DICO": "1301",
+        "CONCELHO": "Amarante",
+        "DISTRITO": "Porto"
+    },
+    {
+        "DICO": "1302",
+        "CONCELHO": "Baião",
+        "DISTRITO": "Porto"
+    },
+    {
+        "DICO": "1303",
+        "CONCELHO": "Felgueiras",
+        "DISTRITO": "Porto"
+    },
+    {
+        "DICO": "1304",
+        "CONCELHO": "Gondomar",
+        "DISTRITO": "Porto"
+    },
+    {
+        "DICO": "1305",
+        "CONCELHO": "Lousada",
+        "DISTRITO": "Porto"
+    },
+    {
+        "DICO": "1306",
+        "CONCELHO": "Maia",
+        "DISTRITO": "Porto"
+    },
+    {
+        "DICO": "1307",
+        "CONCELHO": "Marco de Canaveses",
+        "DISTRITO": "Porto"
+    },
+    {
+        "DICO": "1308",
+        "CONCELHO": "Matosinhos",
+        "DISTRITO": "Porto"
+    },
+    {
+        "DICO": "1309",
+        "CONCELHO": "Paços de Ferreira",
+        "DISTRITO": "Porto"
+    },
+    {
+        "DICO": "1310",
+        "CONCELHO": "Paredes",
+        "DISTRITO": "Porto"
+    },
+    {
+        "DICO": "1311",
+        "CONCELHO": "Penafiel",
+        "DISTRITO": "Porto"
+    },
+    {
+        "DICO": "1312",
+        "CONCELHO": "Porto",
+        "DISTRITO": "Porto"
+    },
+    {
+        "DICO": "1313",
+        "CONCELHO": "Póvoa de Varzim",
+        "DISTRITO": "Porto"
+    },
+    {
+        "DICO": "1314",
+        "CONCELHO": "Santo Tirso",
+        "DISTRITO": "Porto"
+    },
+    {
+        "DICO": "1315",
+        "CONCELHO": "Valongo",
+        "DISTRITO": "Porto"
+    },
+    {
+        "DICO": "1316",
+        "CONCELHO": "Vila do Conde",
+        "DISTRITO": "Porto"
+    },
+    {
+        "DICO": "1317",
+        "CONCELHO": "Vila Nova de Gaia",
+        "DISTRITO": "Porto"
+    },
+    {
+        "DICO": "1318",
+        "CONCELHO": "Trofa",
+        "DISTRITO": "Porto"
+    },
+    {
+        "DICO": "1401",
+        "CONCELHO": "Abrantes",
+        "DISTRITO": "Santarém"
+    },
+    {
+        "DICO": "1402",
+        "CONCELHO": "Alcanena",
+        "DISTRITO": "Santarém"
+    },
+    {
+        "DICO": "1403",
+        "CONCELHO": "Almeirim",
+        "DISTRITO": "Santarém"
+    },
+    {
+        "DICO": "1404",
+        "CONCELHO": "Alpiarça",
+        "DISTRITO": "Santarém"
+    },
+    {
+        "DICO": "1405",
+        "CONCELHO": "Benavente",
+        "DISTRITO": "Santarém"
+    },
+    {
+        "DICO": "1406",
+        "CONCELHO": "Cartaxo",
+        "DISTRITO": "Santarém"
+    },
+    {
+        "DICO": "1407",
+        "CONCELHO": "Chamusca",
+        "DISTRITO": "Santarém"
+    },
+    {
+        "DICO": "1408",
+        "CONCELHO": "Constância",
+        "DISTRITO": "Santarém"
+    },
+    {
+        "DICO": "1409",
+        "CONCELHO": "Coruche",
+        "DISTRITO": "Santarém"
+    },
+    {
+        "DICO": "1410",
+        "CONCELHO": "Entroncamento",
+        "DISTRITO": "Santarém"
+    },
+    {
+        "DICO": "1411",
+        "CONCELHO": "Ferreira do Zêzere",
+        "DISTRITO": "Santarém"
+    },
+    {
+        "DICO": "1412",
+        "CONCELHO": "Golegã",
+        "DISTRITO": "Santarém"
+    },
+    {
+        "DICO": "1413",
+        "CONCELHO": "Mação",
+        "DISTRITO": "Santarém"
+    },
+    {
+        "DICO": "1414",
+        "CONCELHO": "Rio Maior",
+        "DISTRITO": "Santarém"
+    },
+    {
+        "DICO": "1415",
+        "CONCELHO": "Salvaterra de Magos",
+        "DISTRITO": "Santarém"
+    },
+    {
+        "DICO": "1416",
+        "CONCELHO": "Santarém",
+        "DISTRITO": "Santarém"
+    },
+    {
+        "DICO": "1417",
+        "CONCELHO": "Sardoal",
+        "DISTRITO": "Santarém"
+    },
+    {
+        "DICO": "1418",
+        "CONCELHO": "Tomar",
+        "DISTRITO": "Santarém"
+    },
+    {
+        "DICO": "1419",
+        "CONCELHO": "Torres Novas",
+        "DISTRITO": "Santarém"
+    },
+    {
+        "DICO": "1420",
+        "CONCELHO": "Vila Nova da Barquinha",
+        "DISTRITO": "Santarém"
+    },
+    {
+        "DICO": "1421",
+        "CONCELHO": "Ourém",
+        "DISTRITO": "Santarém"
+    },
+    {
+        "DICO": "1501",
+        "CONCELHO": "Alcácer do Sal",
+        "DISTRITO": "Setúbal"
+    },
+    {
+        "DICO": "1502",
+        "CONCELHO": "Alcochete",
+        "DISTRITO": "Setúbal"
+    },
+    {
+        "DICO": "1503",
+        "CONCELHO": "Almada",
+        "DISTRITO": "Setúbal"
+    },
+    {
+        "DICO": "1504",
+        "CONCELHO": "Barreiro",
+        "DISTRITO": "Setúbal"
+    },
+    {
+        "DICO": "1505",
+        "CONCELHO": "Grândola",
+        "DISTRITO": "Setúbal"
+    },
+    {
+        "DICO": "1506",
+        "CONCELHO": "Moita",
+        "DISTRITO": "Setúbal"
+    },
+    {
+        "DICO": "1507",
+        "CONCELHO": "Montijo",
+        "DISTRITO": "Setúbal"
+    },
+    {
+        "DICO": "1508",
+        "CONCELHO": "Palmela",
+        "DISTRITO": "Setúbal"
+    },
+    {
+        "DICO": "1509",
+        "CONCELHO": "Santiago do Cacém",
+        "DISTRITO": "Setúbal"
+    },
+    {
+        "DICO": "1510",
+        "CONCELHO": "Seixal",
+        "DISTRITO": "Setúbal"
+    },
+    {
+        "DICO": "1511",
+        "CONCELHO": "Sesimbra",
+        "DISTRITO": "Setúbal"
+    },
+    {
+        "DICO": "1512",
+        "CONCELHO": "Setúbal",
+        "DISTRITO": "Setúbal"
+    },
+    {
+        "DICO": "1513",
+        "CONCELHO": "Sines",
+        "DISTRITO": "Setúbal"
+    },
+    {
+        "DICO": "1601",
+        "CONCELHO": "Arcos de Valdevez",
+        "DISTRITO": "Viana do Castelo"
+    },
+    {
+        "DICO": "1602",
+        "CONCELHO": "Caminha",
+        "DISTRITO": "Viana do Castelo"
+    },
+    {
+        "DICO": "1603",
+        "CONCELHO": "Melgaço",
+        "DISTRITO": "Viana do Castelo"
+    },
+    {
+        "DICO": "1604",
+        "CONCELHO": "Monção",
+        "DISTRITO": "Viana do Castelo"
+    },
+    {
+        "DICO": "1605",
+        "CONCELHO": "Paredes de Coura",
+        "DISTRITO": "Viana do Castelo"
+    },
+    {
+        "DICO": "1606",
+        "CONCELHO": "Ponte da Barca",
+        "DISTRITO": "Viana do Castelo"
+    },
+    {
+        "DICO": "1607",
+        "CONCELHO": "Ponte de Lima",
+        "DISTRITO": "Viana do Castelo"
+    },
+    {
+        "DICO": "1608",
+        "CONCELHO": "Valença",
+        "DISTRITO": "Viana do Castelo"
+    },
+    {
+        "DICO": "1609",
+        "CONCELHO": "Viana do Castelo",
+        "DISTRITO": "Viana do Castelo"
+    },
+    {
+        "DICO": "1610",
+        "CONCELHO": "Vila Nova de Cerveira",
+        "DISTRITO": "Viana do Castelo"
+    },
+    {
+        "DICO": "1701",
+        "CONCELHO": "Alijó",
+        "DISTRITO": "Vila Real"
+    },
+    {
+        "DICO": "1702",
+        "CONCELHO": "Boticas",
+        "DISTRITO": "Vila Real"
+    },
+    {
+        "DICO": "1703",
+        "CONCELHO": "Chaves",
+        "DISTRITO": "Vila Real"
+    },
+    {
+        "DICO": "1704",
+        "CONCELHO": "Mesão Frio",
+        "DISTRITO": "Vila Real"
+    },
+    {
+        "DICO": "1705",
+        "CONCELHO": "Mondim de Basto",
+        "DISTRITO": "Vila Real"
+    },
+    {
+        "DICO": "1706",
+        "CONCELHO": "Montalegre",
+        "DISTRITO": "Vila Real"
+    },
+    {
+        "DICO": "1707",
+        "CONCELHO": "Murça",
+        "DISTRITO": "Vila Real"
+    },
+    {
+        "DICO": "1708",
+        "CONCELHO": "Peso da Régua",
+        "DISTRITO": "Vila Real"
+    },
+    {
+        "DICO": "1709",
+        "CONCELHO": "Ribeira de Pena",
+        "DISTRITO": "Vila Real"
+    },
+    {
+        "DICO": "1710",
+        "CONCELHO": "Sabrosa",
+        "DISTRITO": "Vila Real"
+    },
+    {
+        "DICO": "1711",
+        "CONCELHO": "Santa Marta de Penaguião",
+        "DISTRITO": "Vila Real"
+    },
+    {
+        "DICO": "1712",
+        "CONCELHO": "Valpaços",
+        "DISTRITO": "Vila Real"
+    },
+    {
+        "DICO": "1713",
+        "CONCELHO": "Vila Pouca de Aguiar",
+        "DISTRITO": "Vila Real"
+    },
+    {
+        "DICO": "1714",
+        "CONCELHO": "Vila Real",
+        "DISTRITO": "Vila Real"
+    },
+    {
+        "DICO": "1801",
+        "CONCELHO": "Armamar",
+        "DISTRITO": "Viseu"
+    },
+    {
+        "DICO": "1802",
+        "CONCELHO": "Carregal do Sal",
+        "DISTRITO": "Viseu"
+    },
+    {
+        "DICO": "1803",
+        "CONCELHO": "Castro Daire",
+        "DISTRITO": "Viseu"
+    },
+    {
+        "DICO": "1804",
+        "CONCELHO": "Cinfães",
+        "DISTRITO": "Viseu"
+    },
+    {
+        "DICO": "1805",
+        "CONCELHO": "Lamego",
+        "DISTRITO": "Viseu"
+    },
+    {
+        "DICO": "1806",
+        "CONCELHO": "Mangualde",
+        "DISTRITO": "Viseu"
+    },
+    {
+        "DICO": "1807",
+        "CONCELHO": "Moimenta da Beira",
+        "DISTRITO": "Viseu"
+    },
+    {
+        "DICO": "1808",
+        "CONCELHO": "Mortágua",
+        "DISTRITO": "Viseu"
+    },
+    {
+        "DICO": "1809",
+        "CONCELHO": "Nelas",
+        "DISTRITO": "Viseu"
+    },
+    {
+        "DICO": "1810",
+        "CONCELHO": "Oliveira de Frades",
+        "DISTRITO": "Viseu"
+    },
+    {
+        "DICO": "1811",
+        "CONCELHO": "Penalva do Castelo",
+        "DISTRITO": "Viseu"
+    },
+    {
+        "DICO": "1812",
+        "CONCELHO": "Penedono",
+        "DISTRITO": "Viseu"
+    },
+    {
+        "DICO": "1813",
+        "CONCELHO": "Resende",
+        "DISTRITO": "Viseu"
+    },
+    {
+        "DICO": "1814",
+        "CONCELHO": "Santa Comba Dão",
+        "DISTRITO": "Viseu"
+    },
+    {
+        "DICO": "1815",
+        "CONCELHO": "São João da Pesqueira",
+        "DISTRITO": "Viseu"
+    },
+    {
+        "DICO": "1816",
+        "CONCELHO": "São Pedro do Sul",
+        "DISTRITO": "Viseu"
+    },
+    {
+        "DICO": "1817",
+        "CONCELHO": "Sátão",
+        "DISTRITO": "Viseu"
+    },
+    {
+        "DICO": "1818",
+        "CONCELHO": "Sernancelhe",
+        "DISTRITO": "Viseu"
+    },
+    {
+        "DICO": "1819",
+        "CONCELHO": "Tabuaço",
+        "DISTRITO": "Viseu"
+    },
+    {
+        "DICO": "1820",
+        "CONCELHO": "Tarouca",
+        "DISTRITO": "Viseu"
+    },
+    {
+        "DICO": "1821",
+        "CONCELHO": "Tondela",
+        "DISTRITO": "Viseu"
+    },
+    {
+        "DICO": "1822",
+        "CONCELHO": "Vila Nova de Paiva",
+        "DISTRITO": "Viseu"
+    },
+    {
+        "DICO": "1823",
+        "CONCELHO": "Viseu",
+        "DISTRITO": "Viseu"
+    },
+    {
+        "DICO": "1824",
+        "CONCELHO": "Vouzela",
+        "DISTRITO": "Viseu"
+    }
+]
