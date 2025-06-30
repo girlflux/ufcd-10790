@@ -3,12 +3,14 @@
   <defs>
     <style>
       .cls-1 {
-        fill: rgba(255, 255, 255, 0);
+        fill: none;
+        stroke: #000;
+        stroke-linecap: round;
+        stroke-miterlimit: 10;
+        stroke-width: 3px;
       }
     </style>
   </defs>
-  <g id="Queimada">
-    <path class="cls-1" d="M0,.02h50.02v49.97H0V.02Z"/>
-    <path d="M5.1,42.27v4.18h40.73v-4.18H5.1Z"/>
-  </g>
+  <path class="cls-1" d="M7.5,15.08c4.37,0,4.37,7.42,8.75,7.42s4.37-7.42,8.75-7.42,4.38,7.42,8.75,7.42,4.38-7.42,8.75-7.42"/>
+  <path class="cls-1" d="M7.5,27.5c4.37,0,4.37,7.42,8.75,7.42s4.37-7.42,8.75-7.42,4.38,7.42,8.75,7.42,4.38-7.42,8.75-7.42"/>
 </svg>

@@ -10,10 +10,14 @@
             <summary>{{ distrito }}</summary>
             {% for concelho, dados in concelhos.items() %}
             <div class="concelhos {% if dados.rcm == 1 %}rcm-1{% elif dados.rcm == 2 %}rcm-2{% elif dados.rcm == 3 %}rcm-3{% elif dados.rcm == 4 %}rcm-4{% elif dados.rcm == 5 %}rcm-5{% endif %}">
-                <p>{{ dados.dico }}</p>
-                <p>{{ concelho }}</p>
-                <p>{{ dados.rcm }}</p>
-                <img class="fogo" src="{{ url_for('static', filename='svg/incendio-' ~ dados.rcm ~ '.svg') }}" alt="Risco de incêndio">
+                <div class="concelhos-dados">
+                    <p>{{ dados.dico }}</p>
+                    <p>{{ concelho }}</p>
+                    <p>{{ dados.rcm }}</p>
+                </div>
+                <div class="caixa-fogo">
+                    <img class="fogo" src="{{ url_for('static', filename='svg/incendio-' ~ dados.rcm ~ '.svg') }}" alt="Risco de incêndio">
+                </div>
             </div>
             {% endfor %}
         </details>
