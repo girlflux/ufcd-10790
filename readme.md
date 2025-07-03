@@ -65,5 +65,10 @@ Distrito de Beja: 02
         …
     …
 …
-
 ````
+
+### Possibilidades Futuras
+- [ ] Visualização do dia seguinte
+- [ ] Inclusão de outros dados metereológicos
+- [ ] Criar algum tipo de mecanismo de filtro que permita ver por risco
+- [ ] Pesquisa por concelhos

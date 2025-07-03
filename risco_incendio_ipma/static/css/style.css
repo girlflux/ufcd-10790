@@ -69,7 +69,11 @@ html {
     color: var(--cor-texto);
 }
 
-main {
+h1, h2 {
+    font-family: 'Roboto Condensed';
+}
+
+#conteudo {
     background-color: var(--cor-fundo-main);
     max-width: 60rem;
     padding: 2rem;
@@ -79,9 +83,32 @@ main {
     border-radius: 2rem;
 }
 
+header {
+    margin-bottom: 1rem;
+}
+
 h1 {
     font-size: xx-large;
+    font-weight: 900;
     margin-bottom: 1rem;
+}
+
+.legenda {
+    margin-top: 1rem;
+    display: flex;
+    flex-flow: column;
+    justify-content: space-between;
+    gap: 1rem;
+}
+
+.legenda div {
+    border: 2px solid var(--cor-borda);
+    border-radius: 0.6rem;
+    padding: 0.25rem 0.5rem 0.25rem 0.5rem;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    width: auto;
 }
 
 summary {
@@ -148,6 +175,15 @@ details[open] {
 @media (min-width: 767px) {
     .distritos {
         grid-template-columns: 1fr 1fr;
+    }
+    .legenda {
+        justify-content: space-between;
+        flex-flow: wrap;
+        margin-bottom: 1rem;
+    }
+    .legenda div {
+        width: 16rem;
+        margin: auto;
     }
 }
 

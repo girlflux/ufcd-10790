@@ -1,26 +1,62 @@
 {% extends 'base.html' %}
 
-{% block titulo %} Risco de Incêndio — IPMA {% endblock %}
+{% block titulo %} Risco de Incêndio com base no IPMA {% endblock %}
 
-{% block conteudo %}
-    <h1>Risco de Incêndio nos Concelhos de Portugal</h1>
-    <div class="distritos">
-        {% for distrito, concelhos in mapa_dados.items() %}
-        <details>
-            <summary>{{ distrito }}</summary>
-            {% for concelho, dados in concelhos.items() %}
-            <div class="concelhos {% if dados.rcm == 1 %}rcm-1{% elif dados.rcm == 2 %}rcm-2{% elif dados.rcm == 3 %}rcm-3{% elif dados.rcm == 4 %}rcm-4{% elif dados.rcm == 5 %}rcm-5{% endif %}">
-                <div class="concelhos-dados">
-                    <p>{{ dados.dico }}</p>
-                    <p>{{ concelho }}</p>
-                    <p>{{ dados.rcm }}</p>
-                </div>
-                <div class="caixa-fogo">
-                    <img class="fogo" src="{{ url_for('static', filename='svg/incendio-' ~ dados.rcm ~ '.svg') }}" alt="Risco de incêndio">
-                </div>
+{% block header %}
+    <header>
+        <h1>Risco de Incêndio nos Concelhos de Portugal Continental</h1>
+        <p>Lista de concelhos organizados por distrito que apresenta, de 1 a 5, a seriedade do risco de incêndio. Legenda:</p>
+        <div class="legenda">
+            <div>
+                <p>1</p>
+                <p>Reduzido</p>
+                <img class="fogo" src="{{ url_for('static', filename='svg/incendio-1.svg') }}" alt="Risco de incêndio">
             </div>
+            <div>
+                <p>2</p>
+                <p>Moderado</p>
+                <img class="fogo" src="{{ url_for('static', filename='svg/incendio-2.svg') }}" alt="Risco de incêndio">
+            </div>
+            <div>
+                <p>3</p>
+                <p>Elevado</p>
+                <img class="fogo" src="{{ url_for('static', filename='svg/incendio-3.svg') }}" alt="Risco de incêndio">
+            </div>
+            <div>
+                <p>4</p>
+                <p>Muito Elevado</p>
+                <img class="fogo" src="{{ url_for('static', filename='svg/incendio-4.svg') }}" alt="Risco de incêndio">
+            </div>
+            <div>
+                <p>5</p>
+                <p>Máximo</p>
+                <img class="fogo" src="{{ url_for('static', filename='svg/incendio-5.svg') }}" alt="Risco de incêndio">
+            </div>
+            <br>
+        </div>
+    </header>
+{% endblock %}
+
+{% block main %}
+    <main>
+        <div class="distritos">
+            {% for distrito, concelhos in mapa_dados.items() %}
+            <details>
+                <summary>{{ distrito }}</summary>
+                {% for concelho, dados in concelhos.items() %}
+                <div class="concelhos {% if dados.rcm == 1 %}rcm-1{% elif dados.rcm == 2 %}rcm-2{% elif dados.rcm == 3 %}rcm-3{% elif dados.rcm == 4 %}rcm-4{% elif dados.rcm == 5 %}rcm-5{% endif %}">
+                    <div class="concelhos-dados">
+                        <p>{{ dados.dico }}</p>
+                        <p>{{ concelho }}</p>
+                        <p>{{ dados.rcm }}</p>
+                    </div>
+                    <div class="caixa-fogo">
+                        <img class="fogo" src="{{ url_for('static', filename='svg/incendio-' ~ dados.rcm ~ '.svg') }}" alt="Risco de incêndio">
+                    </div>
+                </div>
+                {% endfor %}
+            </details>
             {% endfor %}
-        </details>
-        {% endfor %}
-    </div>
+        </div>
+    </main>
 {% endblock %}
